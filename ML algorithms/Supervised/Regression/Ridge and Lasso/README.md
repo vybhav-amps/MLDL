@@ -28,6 +28,8 @@ Lasso Regression adds a penalty equivalent to the absolute value of the magnitud
 
 ## Graphical Representation
 
+<img width="425" alt="ridge n lasso" src="https://github.com/vybhav-amps/MLDL/assets/59567512/5bfc0c4d-6f63-4afd-b1de-e96fd268cac0">
+
 ### Coefficient Path
 
 Plot showing the paths of the coefficients as the regularization parameter λ is varied. Useful for understanding the effect of λ on the model coefficients.
