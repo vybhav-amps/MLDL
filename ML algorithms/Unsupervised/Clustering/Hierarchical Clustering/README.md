@@ -20,6 +20,8 @@ The choice of distance metric (e.g., Euclidean, Manhattan) and linkage criteria 
 
 ## Graphical Representation
 
+![heirarical](https://github.com/vybhav-amps/MLDL/assets/59567512/35e3ba6b-0f91-4048-8a65-895e906b1762)
+
 ### Dendrogram
 
 A tree-like diagram that records the sequences of merges or splits. The height of the splits or merges represents the distance or dissimilarity between clusters.
