@@ -5,6 +5,9 @@
 
 Machine Learning (ML) is a branch of artificial intelligence that focuses on building applications that learn from data and improve their accuracy over time without being programmed to do so. ML algorithms use historical data as input to predict new output values.
 
+![image_123650291](https://github.com/vybhav-amps/MLDL/assets/59567512/7a7ac07d-d250-4cd9-a197-3fd21a075dea)
+
+
 ### Types of Machine Learning
 
 1. **Supervised Learning:** The algorithm learns from labeled training data, helps predict outcomes for unforeseen data. Examples: Linear Regression, Logistic Regression, Support Vector Machines, etc.
