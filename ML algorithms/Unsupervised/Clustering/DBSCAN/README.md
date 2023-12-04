@@ -20,6 +20,8 @@ The algorithm relies on the concept of density reachability and density connecti
 
 ## Graphical Representation
 
+<img width="437" alt="dbscan" src="https://github.com/vybhav-amps/MLDL/assets/59567512/ed36ca5a-799a-4dc2-9cf4-f364efd6f1e4">
+
 ### Cluster Visualization
 
 Visual representation of the data points, colored based on the clusters identified by DBSCAN. Outliers are usually marked with a different color.
