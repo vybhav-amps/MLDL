@@ -24,6 +24,8 @@ There are no specific formulas for decision trees, but key measures include:
 
 ## Graphical Representation
 
+![dtrf class](https://github.com/vybhav-amps/MLDL/assets/59567512/c042ca47-4705-4ad7-b0ba-b900e446bd1e)
+
 ### Tree Diagram
 
 Illustrates the tree with nodes, branches, and leaf nodes representing the classes.
