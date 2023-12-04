@@ -28,6 +28,8 @@ Where:
 
 ## Graphical Representation
 
+![log reg](https://github.com/vybhav-amps/MLDL/assets/59567512/f0aeb242-9221-4e55-8429-a099e79ea2ad)
+
 ### Sigmoid Curve
 
 The Sigmoid (logistic) function which shows the probability curve which ranges from 0 to 1.
