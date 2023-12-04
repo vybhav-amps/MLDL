@@ -32,6 +32,8 @@ Where:
 
 ## Graphical Representation
 
+<img width="484" alt="linear reg" src="https://github.com/vybhav-amps/MLDL/assets/59567512/12a56111-73ed-4924-9986-1f86e657c2c0">
+
 ### Scatter Plot
 
 A scatter plot visualizes the data points and the fitted regression line. This helps in understanding the relationship between the variables.
