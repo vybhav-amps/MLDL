@@ -26,6 +26,8 @@ y_i (w * x_i + b) ≥ 1, for all i
 
 ## Graphical Representation
 
+![svm](https://github.com/vybhav-amps/MLDL/assets/59567512/06f3df8b-7be4-4d6f-8c7e-7a2dad536ec3)
+
 ### Decision Boundary
 
 Visualize the decision boundary created by the SVM. It is often represented in a two-dimensional space for simplicity.
