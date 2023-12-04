@@ -21,6 +21,8 @@ Decision Trees do not have a typical 'formula' like linear models, but follow a 
 
 ## Graphical Representation
 
+![dtrf reg](https://github.com/vybhav-amps/MLDL/assets/59567512/0b1dc972-0cd4-4ba1-b5e5-64603ede5ee3)
+
 ### Tree Diagram
 
 Visual representation of the tree showing splits, branches, and leaf nodes.
