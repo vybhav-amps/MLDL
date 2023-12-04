@@ -21,6 +21,8 @@ The algorithm minimizes the within-cluster sum of squares (WCSS), which is the s
 
 ## Graphical Representation
 
+![k means](https://github.com/vybhav-amps/MLDL/assets/59567512/04888282-b1c0-423e-9e4e-3fd111f4dc94)
+
 ### Cluster Visualization
 
 A scatter plot showing the data points colored based on the cluster they belong to and the centroids of these clusters.
