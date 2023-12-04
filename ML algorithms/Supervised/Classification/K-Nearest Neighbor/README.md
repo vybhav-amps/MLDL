@@ -31,6 +31,8 @@ Common distance metrics used in KNN:
 
 ## Graphical Representation
 
+![knn](https://github.com/vybhav-amps/MLDL/assets/59567512/10198fd4-d23d-495a-bf8a-70004201af0d)
+
 ### Scatter Plot
 
 Shows the data points in the feature space, highlighting the neighbors of a prediction point.
